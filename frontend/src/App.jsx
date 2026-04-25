@@ -275,7 +275,7 @@ export default function App() {
             width: 36,
             height: 36,
             borderRadius: 10,
-            background: "linear-gradient(135deg, #3b82f6, #8b5cf6)",
+            background: "linear-gradient(135deg, #3b82f5, #8b5cf6)",
             display: "flex",
             alignItems: "center",
             justifyContent: "center",
