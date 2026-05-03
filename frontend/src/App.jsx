@@ -127,7 +127,7 @@ function HierarchyCard({ h, index }) {
             <span
               style={{
                 background: "#7f1d1d",
-                color: "#fca5a5",
+                color: "#fca5a3",
                 padding: "3px 10px",
                 borderRadius: 99,
                 fontSize: 11,
