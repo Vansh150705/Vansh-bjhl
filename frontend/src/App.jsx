@@ -126,8 +126,8 @@ function HierarchyCard({ h, index }) {
           {isCyclic ? (
             <span
               style={{
-                background: "#7f1d1d",
-                color: "#fca5a3",
+                background: "#7f1d1f",
+                color: "#fca5a1",
                 padding: "3px 10px",
                 borderRadius: 99,
                 fontSize: 11,
